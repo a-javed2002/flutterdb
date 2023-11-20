@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596942908840",
+    "project_id": "flutter-680ed",
+    "storage_bucket": "flutter-680ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596942908840:android:be036be89f7cb9b9f0019d",
+        "android_client_info": {
+          "package_name": "com.example.dbapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgU4xw2U4ABVjGMkCrFlcaRHiu893D5vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
